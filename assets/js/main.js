@@ -1,6 +1,6 @@
 /**
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Author: BootstrapMade and Kshitij
+
 */
 (function() {
   "use strict";
